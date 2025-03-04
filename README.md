@@ -1,4 +1,4 @@
-# ARG Game About The Lore of A Growing Friendship
+# ARG Game About The Lore of A Dwindling Friendship
 
 - Cool Gameplay
 

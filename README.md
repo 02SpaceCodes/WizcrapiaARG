@@ -1,4 +1,4 @@
-# Very Cool Puzzle Game All About The Wizcrapian Lore
+# ARG Game About The Lore Of A Growing Friendship
 
 - Cool Gameplay
 

@@ -1,2 +1,1 @@
-# WizcrapiaARG
-Coolness Game Thing We Try MAke Here
+# Very Cool Puzzle Game All About The Wizcrapian Lore
